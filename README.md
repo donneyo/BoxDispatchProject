@@ -33,7 +33,7 @@ src/main/java/org/example/BoxServiceApplication
 ##  **Build Instructions**
 1. **Clone the repository**
     * git clone https://github.com/donneyo/BoxDispatchProject.git
-    * cd box-service
+    * cd BoxDispatchProject
 
 2 .Ensure Java 21 is installed
 3 .Build the project using Maven "mvn clean install
