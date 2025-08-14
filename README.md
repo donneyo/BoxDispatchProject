@@ -133,6 +133,12 @@ src/main/java/org/example/BoxServiceApplication
 
 ## Testing
     * All endpoints tested with Postman using both valid and invalid inputs to confirm rule enforcement.
+    * Once it’s running on http://localhost:8080
+    * Create a box (POST /boxes)
+    * Load items (POST /boxes/{id}/items)
+    * Get loaded items (GET /boxes/{id}/items)
+    * Get available boxes (GET /boxes/available)
+    * Get battery level (GET /boxes/{id}/battery)
 
 
 
